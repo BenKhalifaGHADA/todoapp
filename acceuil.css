@@ -1,0 +1,26 @@
+.container-fluid{
+    background: #4696E5;
+    height: 300px;
+}
+.titre{
+    color:white;
+    margin-left:900px;
+    font-size: 55px;
+}
+.sousTitre{
+    color:white;
+    font-size: 25px;
+}
+.btn,.sousTitre{
+    margin-left: 950px;
+}
+.col-12{
+    margin:15px;
+}
+h2{
+    text-align: center;
+    color: #838383 ;
+    margin:15px;
+}
+hr {
+   width:5%;}
